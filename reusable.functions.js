@@ -1,4 +1,7 @@
 // REUSABLE FUNTIONS
+// psuedo code then 
+// create funtions then add examples ! 
+
 
 function sumArray(numbers) {
     return numbers.reduce((sum, num) => sum + num, 0);
@@ -23,8 +26,10 @@ function printNumbers(n, current = 1) {
 }
 
 
-// part 2 
+// part 2 psuedo code !
+// create code then add examples !
 
+// creating a chart 
 
 function sortByAge(people) {
     return people.sort((a, b) => a.age - b.age);
